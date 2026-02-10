@@ -1,6 +1,5 @@
 #!/bin/bash
 
-# --- Day 4: Automation Script ---
 # This script logs system performance and checks if a service is running.
 
 # 1. Define Variables
